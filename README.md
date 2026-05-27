@@ -24,8 +24,8 @@ The homepage provides quick access to checking other available devices and conne
 
 
 ## Connection Screen
-![PC Request](PC_Connection_Request.png)
-![Phone Request](Phone_Connection_Request.png)
+![PC Request](assets/images/PC_Connection_Request.png)
+![Phone Request](assets/images/Phone_Connection_Request.png)
 
 This screen allows users to approve or reject incoming connection requests from nearby devices.
 
@@ -33,9 +33,9 @@ This screen allows users to approve or reject incoming connection requests from 
 
 ## File Transfer Screen
 
-![Transfer](Transfer_Page.png)
-![Transfer](Transfer_PC~~Phone.png)
-![Transfer](Transfer_Phone~~PC.png)
+![Transfer](assets/images/Transfer_Page.png)
+![Transfer](assets/images/Transfer_PC~~Phone.png)
+![Transfer](assets/images/Transfer_Phone~~PC.png)
 
 Users can easily select files and transfer them across devices connected to the same network.
 
@@ -43,15 +43,15 @@ Users can easily select files and transfer them across devices connected to the 
 
 ## Received Files
 
-![Received Files](Transfer_History_PC+Transfer_Page_(Android).png)
+![Received Files](assets/images/Transfer_History_PC+Transfer_Page_(Android).png)
 
 Users can access transfer history and see all past transfers.
 
 ---
 
 ## Settings, Help and About
-![Settings(PC) + Transfer Page](Settings(PC)_and_Transfer_Page(Android).png)
-![About and help](About_and_Help_Pages.png)
+![Settings(PC) + Transfer Page](assets/images/Settings(PC)_and_Transfer_Page(Android).png)
+![About and help](assets/images/About_and_Help_Pages.png)
 
 
 
