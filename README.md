@@ -53,10 +53,20 @@ Users can access transfer history and see all past transfers.
 ![Settings(PC) + Transfer Page](Settings(PC) and Transfer Page(Android).png)
 ![About and help](About and Help Pages.png)
 
-## Download
+
 
 ## How to Use
+1. Connect both devices to the same Wifi or connect one of the devices to the other's hotspot
+2. Open X-Orbit and send a connection request while the other device accepts the request
+3. Click "send files" to select files to send
+
+## Clipboard Sync
+- Copy any text from either device
+- Click the clipboard button at the top right of the homepage
+- Paste on the other device
 
 ## Tech Stack
+Flutter
+Dart
 
-## Current Status
+
