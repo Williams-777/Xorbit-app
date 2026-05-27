@@ -33,9 +33,9 @@ This screen allows users to approve or reject incoming connection requests from 
 
 ## File Transfer Screen
 
-![Transfer](Transfer Page.png)
-![Transfer](Transfer PC~~Phone.png)
-![Transfer](Transfer Phone ~~ PC.png)
+![Transfer](Transfer_Page.png)
+![Transfer](Transfer_PC~~Phone.png)
+![Transfer](Transfer_Phone~~PC.png)
 
 Users can easily select files and transfer them across devices connected to the same network.
 
@@ -43,15 +43,15 @@ Users can easily select files and transfer them across devices connected to the 
 
 ## Received Files
 
-![Received Files](Transfer History PC + Transfer Page (Android).png)
+![Received Files](Transfer_History_PC+Transfer_Page_(Android).png)
 
 Users can access transfer history and see all past transfers.
 
 ---
 
 ## Settings, Help and About
-![Settings(PC) + Transfer Page](Settings(PC) and Transfer Page(Android).png)
-![About and help](About and Help Pages.png)
+![Settings(PC) + Transfer Page](Settings(PC)_and_Transfer_Page(Android).png)
+![About and help](About_and_Help_Pages.png)
 
 
 
