@@ -16,7 +16,7 @@ X-Orbit is a cross-platform local file transfer app built with Flutter.
 
 ## Homepage
 
-![Homepage](HomePage.png)
+![Homepage](assets/images/HomePage.png)
 
 The homepage provides quick access to checking other available devices and connecting with a clean and modern interface designed for simplicity.
 
