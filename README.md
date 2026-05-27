@@ -24,8 +24,8 @@ The homepage provides quick access to checking other available devices and conne
 
 
 ## Connection Screen
-![PC Request](PC Connection Request.png)
-![Phone Request](Phone Connection Request.png)
+![PC Request](PC_Connection_Request.png)
+![Phone Request](Phone_Connection_Request.png)
 
 This screen allows users to approve or reject incoming connection requests from nearby devices.
 
